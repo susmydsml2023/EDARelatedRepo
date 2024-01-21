@@ -85,6 +85,6 @@ In the above analysis,we can see that most of are active in teenage.When increas
   
 </ol>
 
-<h2>Conclusion :-</h2>
+<h2>Conclusion:</h2>
 
 The analysis provided valuable insights into various aspects including team distributions, salary expenditures across different positions, demographics concerning employee age, and correlations between age and salary within the ABC company. These findings significantly contribute to understanding the internal dynamics and resource allocation of the organization
