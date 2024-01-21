@@ -1,6 +1,6 @@
 # EDARelatedRepo
 
-Introduction:
+<h2>Introduction:</h2>
 
 In this Python project, ABC company details contains the details of employees like age,height,weight,position,etc.First of we thoroughly analyze the with EDA(Exploratory Data Analysis) method.After that we get a clear idea about the dataset.
 The key objectives included:
@@ -10,7 +10,7 @@ The key objectives included:
 <li>In this project we changed the data in the column "Height' with random intergers between 150 - 180 .</li>
 </ul>
 
-After that we do the following functions,
+<h4>After that we do the following functions,</h4>
 
 <ul>
 <li>head():This method is used to show the first 5 rows only.</li>
@@ -27,7 +27,7 @@ After that we do the following functions,
 </ul>
 
 
-<h5>In this ABC company Details consists of 458 rows and 9 columns.Each columns describes below,</h5>
+<h4>In this ABC company Details consists of 458 rows and 9 columns.Each columns describes below,</h4>
 <ul>
 <li>Name : It describes the name of each employees</li>
 <li>Team : It describes where under employees plays</li>
@@ -41,7 +41,7 @@ After that we do the following functions,
 </ul>
 
 
-We get data stories are listed below,
+<h4>We get data stories are listed below,</h4>
 <ol>
 <li>In the ABC company details we can find Team "New Orleans Pelicans" has highest percentage of employees belongs to.Other remaining teams having almost same percentage.We done this analysis with 30 teams, in ABC company details.</li>
   <li>In the position analysis, SG has the highest count with 102 employees, PG has 92 employees, SF has 85 employees,PF has 100 employees and C with 79 employees.
@@ -85,6 +85,6 @@ In the above analysis,we can see that most of are active in teenage.When increas
   
 </ol>
 
-Conclusion :-
+<h2>Conclusion :-</h2>
 
 The analysis provided valuable insights into various aspects including team distributions, salary expenditures across different positions, demographics concerning employee age, and correlations between age and salary within the ABC company. These findings significantly contribute to understanding the internal dynamics and resource allocation of the organization
