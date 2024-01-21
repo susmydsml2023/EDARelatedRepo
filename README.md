@@ -4,25 +4,27 @@ Introduction:
 
 In this Python project, ABC company details contains the details of employees like age,height,weight,position,etc.First of we thoroughly analyze the with EDA(Exploratory Data Analysis) method.After that we get a clear idea about the dataset.
 The key objectives included:
--First of all Imported essential modules: NumPy, Pandas, Seaborn, Matplotlib.
--Then check any missing data or reaarrange the data in the dataSet.
--In this project we changed the data in the column "Height' with random intergers between 150 - 180 .
-
+<ul>
+<li>-First of all Imported essential modules: NumPy, Pandas, Seaborn, Matplotlib.</li>
+<li>-Then check any missing data or reaarrange the data in the dataSet.</li>
+<li>-In this project we changed the data in the column "Height' with random intergers between 150 - 180 .</li>
+</ul>
 
 After that we do the following functions,
 
--head():This method is used to show the first 5 rows only.
--tail():This method is used to show the last 5 rows only.
--info():This method is used to get the information about the table.
--describe():This method returns description of the data in the DataFrame.
--isnull():This method method returns a DataFrame object where all the values are replaced with a Boolean value True for NULL values, and otherwise False.
--notnull():This method DataFrame of Boolean values where False indicates the presence of NaN (Not a Number) values in the specified DataFrame.
--duplicated():This method helps in analyzing duplicate values only. It returns a boolean series which is True only for Unique elements.
--columns:This is an attribute that provides access to the column labels of a data frame.
--value_counts():This function return a Series containing counts of unique values.
--unique():This method is used to know all type of unique values in the columns.
--nunique():This method returns the number of unique values for each column.
-
+<ul>
+<li>-head():This method is used to show the first 5 rows only.</li>
+<li>-tail():This method is used to show the last 5 rows only.</li>
+<li>-info():This method is used to get the information about the table.</li>
+<li>-describe():This method returns description of the data in the DataFrame.</li>
+<li>-isnull():This method method returns a DataFrame object where all the values are replaced with a Boolean value True for NULL values, and otherwise False.</li>
+<li>-notnull():This method DataFrame of Boolean values where False indicates the presence of NaN (Not a Number) values in the specified DataFrame.</li>
+<li>-duplicated():This method helps in analyzing duplicate values only. It returns a boolean series which is True only for Unique elements.</li>
+<li>-columns:This is an attribute that provides access to the column labels of a data frame.</li>
+<li>-value_counts():This function return a Series containing counts of unique values.</li>
+<li>-unique():This method is used to know all type of unique values in the columns.</li>
+<li>-nunique():This method returns the number of unique values for each column.</li>
+</ul>
 
 
 <h5>In this ABC company Details consists of 458 rows and 9 columns.Each columns describes below,</h5>
